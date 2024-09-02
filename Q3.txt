@@ -1,0 +1,9 @@
+What is web Accessibility?
+
+- Web accessibility refers to the practice of designing and developing web applications that can b accessed and used by people with disabilities or different needs, without barriers or limitations.
+
+There are some assisteive devices which play a major role in providing accessibility:
+1. Screen Reader
+2. Voice recognition software 
+3. Keyboard alternatives
+

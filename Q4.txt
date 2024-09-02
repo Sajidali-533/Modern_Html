@@ -1,0 +1,4 @@
+Several way to improve accessibility of HTML
+1. Text content
+2. Page layouts
+3. UI controls

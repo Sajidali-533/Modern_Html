@@ -1,0 +1,9 @@
+What are enteties?
+- The HTML enteties are strings of text that start with an ampersand symbol(&) and end with a semicolon(;). These enteties are commonly used to demonstrate characters that are reserved and imperceptible charactes such as non-breaking spaces.
+
+List of 5 commonly used :
+1. &amp; for (&)
+2. &gt; for (>)
+3. &lt; for (<)
+4. &quot; for (")
+5. &copy; for (copyright)
